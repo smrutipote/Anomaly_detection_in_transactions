@@ -1,5 +1,7 @@
 # Anomaly_detection_in_transactions
 
+Read full article on https://medium.com/@smruti.po1106/anomaly-detection-in-transactions-d7e10e90f01f
+
 🕵️‍♂️ Transaction Anomaly Detector
 Detect anomalous transactions using Machine Learning (Isolation Forest) and a user-friendly Gradio interface.
 
